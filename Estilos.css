@@ -127,3 +127,13 @@ input[type="reset"]
     display: inline;
     margin: auto 10px;
 }
+ input[type="text"],t[type="number"],[type="passoword"]
+ {width: 95%;
+ padding: 20px;}
+ 
+
+
+ 
+
+
+
